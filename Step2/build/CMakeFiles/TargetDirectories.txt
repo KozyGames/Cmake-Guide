@@ -1,0 +1,7 @@
+C:/Kozy_Repo/Projects/Cmake-Guide/Step2/build/CMakeFiles/Tutorial.dir
+C:/Kozy_Repo/Projects/Cmake-Guide/Step2/build/CMakeFiles/edit_cache.dir
+C:/Kozy_Repo/Projects/Cmake-Guide/Step2/build/CMakeFiles/rebuild_cache.dir
+C:/Kozy_Repo/Projects/Cmake-Guide/Step2/build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Kozy_Repo/Projects/Cmake-Guide/Step2/build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+C:/Kozy_Repo/Projects/Cmake-Guide/Step2/build/MathFunctions/CMakeFiles/edit_cache.dir
+C:/Kozy_Repo/Projects/Cmake-Guide/Step2/build/MathFunctions/CMakeFiles/rebuild_cache.dir

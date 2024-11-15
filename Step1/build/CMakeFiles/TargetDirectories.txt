@@ -1,0 +1,3 @@
+C:/Kozy_Repo/Projects/Cmake-Guide/Step1/build/CMakeFiles/Tutorial.dir
+C:/Kozy_Repo/Projects/Cmake-Guide/Step1/build/CMakeFiles/edit_cache.dir
+C:/Kozy_Repo/Projects/Cmake-Guide/Step1/build/CMakeFiles/rebuild_cache.dir
